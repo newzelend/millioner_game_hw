@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  game
 //
-//  Created by Grisha Pospelov on 02.11.2021.
+//  Created by Grisha Pospelov on 01.11.2021.
 //
 
 import UIKit
